@@ -1,6 +1,6 @@
 # TugasAI_131114510_Chintya
-Nama 	: Chintya
-Nim 		: 131114510
+Nama 	 : Chintya
+Nim 		 : 131114510
 Kelas 	: TP.B Pagi
 
  	http://www.loebner.net/Prizef/TuringArticle.html
